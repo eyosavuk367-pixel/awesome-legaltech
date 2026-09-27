@@ -334,6 +334,9 @@ Browser-based platforms and search engines for case law, statutes, and dockets.
 
 ### Open / Free Access (By Jurisdiction)
 
+**United States**
+- [VerdictWiki](https://verdictwiki.com/) — Independent reference database of major litigation (mass torts, class actions, landmark verdicts): 97 case records across 11 countries with docket numbers, plaintiff counts over time, and settlement/verdict figures sourced to public court records and regulatory sources. Open access, no account.
+
 ### National & Regional Portals (Global)
 
 <details>
